@@ -2,6 +2,9 @@
 Learning_git
 **Hi Guys!**
 
-'''cpp
+```cpp
 #include<cstdio>
-'''
+int main(){
+    printf("H");
+}
+```
